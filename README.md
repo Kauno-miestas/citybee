@@ -1,2 +1,2 @@
 # citybee
-Citybee stotelės - auto ir dviračiai
+Citybee stotelės - visos auto ir dviračių stotelės Lietuvoje.
